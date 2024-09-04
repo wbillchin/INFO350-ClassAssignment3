@@ -34,7 +34,9 @@ namespace MyApp
             double total = subTotal + salesTax;
 
             Console.WriteLine("The total is " + total);
-
+            
+            // extra exercise - figure out the formatting of total
+            // for dollars and cents to only 2 decimal places, eg. $20.95
         }
     }
 }
